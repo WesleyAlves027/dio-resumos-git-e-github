@@ -8,4 +8,4 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso Versionamento d
 - [Documentação git]() 
 - [Documentação GitHub]()
 
-## 💻Resumos
+## 💻Resumos das aulas
